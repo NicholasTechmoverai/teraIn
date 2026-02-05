@@ -1,0 +1,276 @@
+seo:
+  title: "Tera In – Digital Solutions for Web, Apps, AI & Design | Full-Service Development Agency"
+  description: "Tera In builds high-performance websites, scalable backend systems, intelligent machine learning solutions, modern mobile apps, and impactful graphic design that helps businesses grow. Get custom digital products that drive revenue."
+
+title: "Tera In – Building Digital Products That Scale & Succeed"
+description: "We design, develop, and deploy powerful digital solutions—from modern websites and mobile apps to intelligent machine learning systems and stunning visual designs. Partner with experts who deliver results."
+
+hero:
+  links:
+    - label: "Get a Free Consultation →"
+      icon: i-lucide-calendar
+      trailing: true
+      color: primary
+      to: '/consultation'
+      size: xl
+    - label: "View Case Studies"
+      icon: i-lucide-chart-line
+      size: xl
+      color: neutral
+      variant: outline
+      to: '/case-studies'
+
+section:
+  title: '[Transform]{.text-primary} your ideas into powerful digital solutions'
+  description: "At Tera In, we turn concepts into reliable, scalable, and visually compelling products that drive real business results. See how we've helped companies achieve 3x ROI."
+  images:
+    mobile: '/images/macbook-mobile.svg'
+    desktop: '/images/macbook.svg'
+  features:
+    - title: "Modern Web Development"
+      description: "We build fast, responsive, and SEO-optimized websites using modern technologies that deliver exceptional user experiences across all devices."
+      class: border-l border-primary pl-4
+      metrics: "40% faster load times | 95+ Lighthouse scores"
+    - title: "Scalable Backend Systems"
+      description: "From APIs to databases, we design secure and scalable backend architectures that power high-traffic and data-driven applications."
+      class: border-l border-default pt-4 pl-4
+      metrics: "Handles 10M+ daily requests | 99.9% uptime SLA"
+    - title: "Intelligent Machine Learning"
+      description: "We integrate machine learning models that turn your data into insights, automation, and smarter decision-making tools."
+      class: border-l border-default pt-4 pl-4
+      metrics: "90% prediction accuracy | Automated workflows"
+
+client_showcase:
+  title: "Trusted by Industry Leaders"
+  description: "Companies who have scaled their digital presence with Tera In"
+  logos:
+    - "/logos/client1.svg"
+    - "/logos/client2.svg"
+    - "/logos/client3.svg"
+    - "/logos/client4.svg"
+    - "/logos/client5.svg"
+
+features:
+  title: "Everything you need to build [smarter digital products]{.text-primary}"
+  description: "Our multidisciplinary team covers the full product lifecycle—from idea to launch and beyond. Each service includes industry best practices and performance guarantees."
+  features:
+    - title: "Full-Stack Web Development"
+      description: "Custom websites and platforms built for performance, security, and scalability."
+      icon: i-lucide-globe
+      technologies: ["React", "Vue", "Next.js", "Nuxt"]
+      ui:
+        leading: bg-accented/50 p-2 rounded-md border border-muted border-dashed
+    - title: "Backend & API Engineering"
+      description: "Robust APIs, databases, and cloud-ready systems designed for long-term growth."
+      icon: i-lucide-database
+      technologies: ["Node.js", "Python", "PostgreSQL", "MongoDB"]
+      ui:
+        leading: bg-accented/50 p-2 rounded-md border border-muted border-dashed
+    - title: "Machine Learning Solutions"
+      description: "Predictive models, data analysis, and AI-driven automation tailored to your business needs."
+      icon: i-lucide-brain
+      technologies: ["TensorFlow", "PyTorch", "OpenAI", "Custom Models"]
+      ui:
+        leading: bg-accented/50 p-2 rounded-md border border-muted border-dashed
+    - title: "Mobile App Development"
+      description: "High-quality Android, iOS, and cross-platform apps with smooth performance and intuitive UX."
+      icon: i-lucide-smartphone
+      technologies: ["Swift", "Kotlin", "React Native", "Flutter"]
+      ui:
+        leading: bg-accented/50 p-2 rounded-md border border-muted border-dashed
+    - title: "Graphic & Brand Design"
+      description: "Logos, UI/UX, and visual identities that communicate clearly and leave a lasting impression."
+      icon: i-lucide-palette
+      technologies: ["Figma", "Adobe Suite", "Design Systems", "Prototyping"]
+      ui:
+        leading: bg-accented/50 p-2 rounded-md border border-muted border-dashed
+    - title: "Ongoing Support & Optimization"
+      description: "We maintain, improve, and scale your product as your business evolves."
+      icon: i-lucide-life-buoy
+      services: ["24/7 Monitoring", "Performance Updates", "Security Patches", "Feature Enhancements"]
+      ui:
+        leading: bg-accented/50 p-2 rounded-md border border-muted border-dashed
+
+tech_stack:
+  title: "Built with [Modern Technologies]{.text-primary}"
+  description: "We use industry-standard tools and frameworks to ensure your solution is future-proof and maintainable."
+  frontend:
+    title: "Frontend"
+    items: ["React", "Vue.js", "Next.js", "TypeScript", "Tailwind CSS"]
+  backend:
+    title: "Backend"
+    items: ["Node.js", "Python", "Go", "PostgreSQL", "MongoDB", "Redis"]
+  mobile:
+    title: "Mobile"
+    items: ["Swift", "Kotlin", "React Native", "Flutter"]
+  cloud:
+    title: "Cloud & DevOps"
+    items: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes"]
+
+steps:
+  title: "Build with confidence in [3 simple steps]{.text-primary}"
+  description: "Our proven process ensures clarity, quality, and results at every stage. Average project completion: 8-12 weeks."
+  items:
+    - title: "Discover & Plan"
+      description: "We understand your goals, users, and challenges to define the right technical and design strategy."
+      deliverables: ["Product Requirements Document", "Technical Architecture", "Timeline & Budget"]
+      timeline: "1-2 weeks"
+      image:
+        light: '/images/light/connect.svg'
+        dark: '/images/dark/connect.svg'
+    - title: "Design & Develop"
+      description: "Our team designs intuitive interfaces and builds robust systems using modern, reliable technologies."
+      deliverables: ["Wireframes & Prototypes", "Weekly Progress Demos", "Quality Assurance"]
+      timeline: "4-8 weeks"
+      image:
+        light: '/images/light/optimize.svg'
+        dark: '/images/dark/optimize.svg'
+    - title: "Launch & Scale"
+      description: "We deploy, monitor, and optimize your product to ensure long-term success and scalability."
+      deliverables: ["Production Deployment", "Analytics Dashboard", "Support & Maintenance Plan"]
+      timeline: "1-2 weeks"
+      image:
+        light: '/images/light/track.svg'
+        dark: '/images/dark/track.svg'
+
+case_studies_preview:
+  title: "[Real Results]{.text-primary} for Real Businesses"
+  description: "See how we've delivered measurable impact across different industries."
+  studies:
+    - client: "E-commerce Platform"
+      industry: "Retail"
+      challenge: "Slow website causing 40% cart abandonment"
+      solution: "Complete frontend overhaul + backend optimization"
+      results: "2.5x faster load times | 35% increase in conversions"
+      link: "/case-studies/ecommerce"
+    - client: "Healthcare Startup"
+      industry: "Health Tech"
+      challenge: "Need secure patient portal with appointment system"
+      solution: "HIPAA-compliant web app + mobile companion"
+      results: "10,000+ users in 6 months | 99.8% uptime"
+      link: "/case-studies/healthcare"
+
+pricing:
+  title: "Flexible solutions for every [business stage]{.text-primary}"
+  description: "Whether you're a startup or an established company, we offer tailored solutions that match your goals and budget. All plans include a 30-day satisfaction guarantee."
+  plans:
+    - title: "Starter Package"
+      description: "Ideal for individuals and small businesses launching their digital presence."
+      price: "From $15,000"
+      timeline: "4-6 weeks"
+      popular: false
+      features:
+        - "Professional website or landing page"
+        - "Clean UI/UX design"
+        - "Basic backend integration"
+        - "Performance and SEO optimization"
+        - "Email support"
+        - "1-month post-launch support"
+      button:
+        label: "Get Quote →"
+        color: neutral
+        variant: outline
+        to: '/quote/starter'
+    - title: "Growth Package"
+      description: "Best for businesses ready to scale with advanced features and automation."
+      price: "From $35,000"
+      timeline: "8-12 weeks"
+      popular: true
+      features:
+        - "Everything in Starter Package"
+        - "Advanced backend & API development"
+        - "Machine learning integration"
+        - "Mobile app development"
+        - "Priority support and consultation"
+        - "3-month post-launch support"
+        - "Analytics dashboard setup"
+        - "Technical documentation"
+      button:
+        label: "Schedule Call →"
+        variant: primary
+        to: '/consultation/growth'
+    - title: "Enterprise Package"
+      description: "Custom solutions for large organizations with complex requirements."
+      price: "Custom Quote"
+      timeline: "12+ weeks"
+      popular: false
+      features:
+        - "Everything in Growth Package"
+        - "Dedicated project team"
+        - "Enterprise security audit"
+        - "24/7 priority support"
+        - "Custom SLA agreement"
+        - "Team training sessions"
+        - "Quarterly strategy reviews"
+      button:
+        label: "Contact Sales"
+        variant: subtle
+        to: '/enterprise'
+
+faq:
+  title: "Common Questions [Answered]{.text-primary}"
+  description: "Get clarity on how we work and what to expect when partnering with Tera In."
+  items:
+    - question: "How long does a typical project take?"
+      answer: "Projects range from 4 weeks for simple websites to 12+ weeks for complex applications. We provide detailed timelines during our discovery phase."
+    - question: "Do you offer ongoing maintenance?"
+      answer: "Yes, we offer monthly maintenance packages starting at $500/month for hosting, security updates, and minor enhancements."
+    - question: "Who owns the code and design?"
+      answer: "You retain 100% ownership of all intellectual property we create for your project. We provide full source code and design files upon completion."
+    - question: "Can you work with our existing team?"
+      answer: "Absolutely! We regularly collaborate with in-house teams, providing expertise and additional development capacity as needed."
+
+testimonials:
+  title: "Trusted by teams building [impactful products]{.text-primary}"
+  description: "Clients choose Tera In for reliability, creativity, and technical excellence. Average client satisfaction score: 4.9/5."
+  items:
+    - quote: "Tera In transformed our idea into a polished product. The team delivered beyond expectations in both design and performance. Our revenue increased by 40% in the first quarter post-launch."
+      user:
+        name: 'Sarah Johnson'
+        description: 'CEO, TechStart Inc.'
+        company_logo: '/logos/techstart.svg'
+    - quote: "Their backend and machine learning expertise helped us automate critical processes and save countless hours. The system processes 50,000+ transactions daily with zero downtime."
+      user:
+        name: 'Michael Chen'
+        description: 'CTO, DataFlow Systems'
+        company_logo: '/logos/dataflow.svg'
+    - quote: "From branding to app development, Tera In handled everything professionally and efficiently. The mobile app has 100,000+ downloads and 4.8-star ratings across both stores."
+      user:
+        name: 'Elena Rodriguez'
+        description: 'Founder, WellnessApp'
+        company_logo: '/logos/wellnessapp.svg'
+
+team_highlight:
+  title: "Led by [Industry Experts]{.text-primary}"
+  description: "Your project is managed by senior engineers and designers with 10+ years of experience."
+  members:
+    - name: "Alex Morgan"
+      role: "Lead Developer"
+      expertise: "Backend Architecture & DevOps"
+      experience: "12 years"
+    - name: "Jamie Lee"
+      role: "UI/UX Director"
+      expertise: "Product Design & User Research"
+      experience: "10 years"
+    - name: "Dr. Ryan Park"
+      role: "AI/ML Specialist"
+      expertise: "Machine Learning & Data Science"
+      experience: "8 years"
+
+cta:
+  title: "Ready to build something powerful?"
+  description: "Let Tera In turn your vision into a scalable, intelligent, and beautifully designed digital product. Schedule your free strategy session today."
+  links:
+    - label: "Start Your Project →"
+      to: '/start-project'
+      color: primary
+      trailingIcon: i-lucide-arrow-right
+      size: xl
+    - label: "Book Discovery Call"
+      to: '/book-call'
+      variant: outline
+      icon: i-lucide-phone
+  contact_info:
+    email: "info@terain.com"
+    phone: "+254 741540233"
+    response_time: "We respond within 2 business hours"
