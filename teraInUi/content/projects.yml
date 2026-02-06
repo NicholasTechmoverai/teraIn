@@ -1,0 +1,74 @@
+project:
+ seoPageTitle: "our projects"
+ seoPageDescription : ""
+ projects:
+    - title: "Elite events,a quick business portfolio"
+      importantInfo : "this project Won Hackathon 2025"
+      headDescription: "A recipe based webssite where it showcases recipes...!!backend not deployed."
+      fullDescription : ["",""]
+      idName: "bussiness-portfolio-23421"
+      image: ""
+      logo: "https://eliteevents.tera-in.top/logo.png"
+      technologies: ["TypeScript", "Nuxt UI", "Tailwind Css", "Nuxtjs"]
+      codeUrl: ""
+      liveUrl: "https://eliteevents.tera-in.top/"
+      designUrl: ""
+      rating: ""
+      type : "web"
+
+    - title: "The food lovers, a site for recipes"
+      importantInfo : "Complete backend and frontend"
+      headDescription: "A recipe based webssite where it showcases recipes...!!backend not deployed."
+      fullDescription : ["",""]
+      idName: "recipes-automated"
+      image: ""
+      logo: "https://raw.githubusercontent.com/NicholasTechmoverai/The_food_lover/refs/heads/main/public/logo.ico"
+      technologies: ["javascript", "fastapi","mysql", "socketio","sessions","jwt", "primevue", "vuejs" , "python" , "tortoise-orm"]
+      codeUrl: "https://github.com/NicholasTechmoverai/The_food_lover"  
+      liveUrl: "https://the-food-lovers.netlify.app/"
+      designUrl: ""
+      rating: "4.6"
+      type : "web+backend"
+      
+    - title: "Vibrant designs"
+      importantInfo : "with locale for different nationalities"
+      headDescription: "Custom websites and platforms built for performance, security, and scalability."
+      fullDescription : ["",""]
+      idName: "bussiness-portfolio-29831"
+      image: ""
+      logo: "https://vibrantdesigns.tera-in.top/static/logo-BpH_yLNz.png"
+      technologies: ["javascript", "NaiveUI","vuejs", "118n locale"]
+      codeUrl: ""  
+      liveUrl: "https://vibrantdesigns.tera-in.top/"
+      designUrl: ""
+      rating: "3.2"
+      type : "web"
+
+    - title: "Elite events,a quick business portfolio"
+      importantInfo : "this project Won Hackathon 2025"
+      headDescription: "Custom websites and platforms built for performance, security, and scalability."
+      fullDescription : ["",""]
+      idName: "bussiness-portfolio-23421"
+      image: ""
+      logo: ""
+      technologies: ["React", "Vue", "Next.js", "Nuxt"]
+      codeUrl: ""  
+      liveUrl: ""
+      designUrl: ""
+      rating: ""
+      type : ""
+
+    - title: "Elite events,a quick business portfolio"
+      importantInfo : "this project Won Hackathon 2025"
+      headDescription: "Custom websites and platforms built for performance, security, and scalability."
+      fullDescription : ["",""]
+      idName: "bussiness-portfolio-23421"
+      image: ""
+      logo: ""
+      technologies: ["React", "Vue", "Next.js", "Nuxt"]
+      codeUrl: ""  
+      liveUrl: ""
+      designUrl: ""
+      rating: ""
+      type : ""
+      

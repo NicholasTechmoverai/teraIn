@@ -28,6 +28,15 @@ export default defineNuxtConfig({
       ]
     }
   },
+    components: {
+    global: true,
+    dirs: [
+      { path: '~/components/', pathPrefix: false },
+      { path: '~/components/projects', pathPrefix: false },
+
+    ]
+  },
+
 
   eslint: {
     config: {
