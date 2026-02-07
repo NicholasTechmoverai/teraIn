@@ -6,9 +6,9 @@ const columns = [{
   }, {
     label: 'Docs'
   }, {
-    label: 'Roadmap'
+    label: 'reviews'
   }, {
-    label: 'Changelog'
+    label: 'Request a Feature'
   }]
 }, {
   label: 'Features',
@@ -28,9 +28,9 @@ const columns = [{
   }, {
     label: 'Pricing'
   }, {
-    label: 'Careers'
+    label: 'Services'
   }, {
-    label: 'Blog'
+    label: 'Contact'
   }]
 }]
 
@@ -51,7 +51,7 @@ function onSubmit() {
 
 <template>
   <USeparator
-    icon="i-simple-icons-nuxtdotjs"
+    icon="i-lucide-code"
     class="h-px"
   />
 
@@ -89,7 +89,7 @@ function onSubmit() {
 
     <template #left>
       <p class="text-sm text-muted">
-        Built with Nuxt UI • © {{ new Date().getFullYear() }}
+        All rights reserved • © {{ new Date().getFullYear() }}
       </p>
     </template>
 
@@ -111,7 +111,7 @@ function onSubmit() {
         variant="ghost"
       />
       <UButton
-        to="https://github.com/nuxt-ui-templates/landing"
+        to="https://github.com"
         target="_blank"
         icon="i-simple-icons-github"
         aria-label="Nuxt UI on GitHub"
